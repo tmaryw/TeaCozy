@@ -21,7 +21,7 @@ header {
   border-bottom: 1px solid seashell;
   background-color: black;
   z-index: 1;
-  padding-top: 0px;
+  top: 0px;
 }
 
 header nav {
