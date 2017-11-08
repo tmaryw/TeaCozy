@@ -78,6 +78,7 @@ span a {
 .item span {
   display: block;
   padding: 5px;
+  font-weight: bold;
 }
 
 #locations {
